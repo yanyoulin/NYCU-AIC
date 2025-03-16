@@ -22,3 +22,7 @@ Confusion(2D & 3D)<br>
 <br>
 Confusion(2D & real_world)<br>
 <img src="https://github.com/yanyoulin/NYCU-AIC/blob/main/HW1/2D/2d-091.jpg" width="280" height="362"/><img src="https://github.com/yanyoulin/NYCU-AIC/blob/main/HW1/real_world/rw-097.jpg" width="644" height="362"/>
+<br>
+Confusion(3D & real_world)<br>
+<img src="https://github.com/yanyoulin/NYCU-AIC/blob/main/HW1/3D/3d-029.jpg" width="600" height="362"/><img src="https://github.com/yanyoulin/NYCU-AIC/blob/main/HW1/real_world/rw-054.jpg" width="600" height="362"/>
+
