@@ -18,6 +18,4 @@ If I were to use relatively formal portrait photos, distinguishing between 2D an
 
 ## Examples
 Confusion(2D & 3D)<br>
-<center class="half">
-  <img src="https://github.com/yanyoulin/NYCU-AIC/blob/main/HW1/2D/2d-085.jpg" width="270" height="420"/><img src="https://github.com/yanyoulin/NYCU-AIC/blob/main/HW1/3D/3d-008.jpg" width="270" height="420"/>
-</center>
+<img src="https://github.com/yanyoulin/NYCU-AIC/blob/main/HW1/2D/2d-085.jpg" width="270" height="420"/><img src="https://github.com/yanyoulin/NYCU-AIC/blob/main/HW1/3D/3d-008.jpg" width="270" height="420"/>
