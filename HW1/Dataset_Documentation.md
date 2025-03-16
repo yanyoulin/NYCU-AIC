@@ -17,3 +17,5 @@ Real-life: My selfie and some celebrities’ photos.<br>
 If I were to use relatively formal portrait photos, distinguishing between 2D and real-life images might be too simple and unnecessary. Therefore, the dataset of real-life photos includes some images of cosplayers and stills from movie adaptations. Additionally, to increase the difficulty of distinguishing between 3D and real-life images, the real-life image set contains some characters from movies adapted from AAA games. Furthermore, the 3D image set includes lifelike portraits of real people created using the recently released character creation system in Monster Hunter, making the implementation of this project more interesting and yielding more engaging results. <br>
 
 ## Examples
+Confusion(2D & 3D)
+[image](https://github.com/yanyoulin/NYCU-AIC/blob/main/HW1/2D/2d-085.jpg) [image]()
